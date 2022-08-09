@@ -21,7 +21,7 @@
 
 <script>
 export default {
-      name: "laalheader",
+      name: "Q&Aheader",
       props: {
             index: Number,
             correctAnswers: Number,
